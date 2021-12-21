@@ -27,13 +27,13 @@
      units="px"
      height="48px"
      inkscape:zoom="7.9999996"
-     inkscape:cx="36.312502"
+     inkscape:cx="36.375002"
      inkscape:cy="43.187502"
-     inkscape:window-width="1541"
-     inkscape:window-height="947"
-     inkscape:window-x="45"
-     inkscape:window-y="29"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg5"
      inkscape:lockguides="true" />
   <defs
@@ -176,7 +176,7 @@
   </defs>
   <g
      id="g38077"
-     transform="matrix(0.0841856,0,0,0.0841856,-20.914108,0.97414771)">
+     transform="matrix(0.08719223,0,0,0.08719223,-21.963422,0.70655775)">
     <path
        id="path2795"
        style="fill:#db4437;fill-opacity:1;stroke-width:0.951353"
