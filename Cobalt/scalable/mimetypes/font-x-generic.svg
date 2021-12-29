@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="font-x-generic.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="8.5405241"
+     inkscape:cx="12.762683"
+     inkscape:cy="27.106065"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect846"
+     style="fill:#7d7d7b;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     d="M 16.139584,14.287501 V 5.820834 l -3.175,-3.175 H 0.79375 v 11.641667 z"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     id="rect1454"
+     style="fill:#fafafa;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     d="M 15.875001,14.022917 H 1.0583336 V 2.910417 H 12.567709 v 3.0427084 c 0,0.14658 0.118004,0.2645833 0.264583,0.2645833 h 3.042709 z m 0,-8.0697916 H 12.832292 V 2.910417 Z" />
+  <path
+     d="M 3.9270325,9.2768833 4.6647922,11.562621 H 3.2090342 Z M 4.4803522,13.374084 H 6.6145856 V 13.156709 L 6.1007887,13.104012 4.5264622,8.4666651 H 3.9467939 L 2.4119903,13.08425 1.8520833,13.15671 v 0.217375 H 3.3473641 V 13.156709 L 2.728173,13.08425 3.1365757,11.786584 h 1.5940879 l 0.4215769,1.297666 -0.6718883,0.07246 z"
+     style="font-weight:bold;font-size:6.58714px;line-height:1.25;font-family:'Noto Serif CJK KR';-inkscape-font-specification:'Noto Serif CJK KR Bold';stroke-width:0.164679;fill:#594ed7;fill-opacity:1"
+     id="path8357" />
+</svg>

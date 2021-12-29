@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666665 8.466667"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="font-x-generic.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="12.078125"
+     inkscape:cx="11.425614"
+     inkscape:cy="26.03881"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect846"
+     style="fill:#7d7d7b;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+     d="M 8.2020833,7.1437494 V 2.6458332 L 6.6145834,1.0583333 H 0.26458334 v 6.0854161 z"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     id="rect1454"
+     style="fill:#fafafa;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
+     d="M 7.9375003,6.8791661 H 0.52916694 V 1.3229163 H 6.1515625 v 1.5213541 c 0,0.1814317 0.1297126,0.2645831 0.2645834,0.2645831 h 1.5213544 z m 0,-4.0348957 H 6.4161459 V 1.3229163 Z"
+     sodipodi:nodetypes="ccccsscccccc" />
+  <path
+     d="m 2.0958074,4.3738583 0.3688797,1.142868 H 1.7368084 Z M 2.3724671,6.422457 H 3.4395833 V 6.31377 L 3.182685,6.287421 2.3955221,3.9687494 H 2.1056881 L 1.3382867,6.27754 1.0583333,6.31377 v 0.108688 h 0.74764 V 6.31377 L 1.4963779,6.27754 1.7005792,5.6287083 H 2.4976228 L 2.7084111,6.27754 2.3724671,6.31377 Z"
+     style="font-weight:bold;font-size:6.58714px;line-height:1.25;font-family:'Noto Serif CJK KR';-inkscape-font-specification:'Noto Serif CJK KR Bold';fill:#594ed7;fill-opacity:1;stroke-width:0.0823395"
+     id="path8357" />
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="battery-level-90-symbolic.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <path
+     id="rect843"
+     style="fill:#363636;fill-opacity:1;stroke-width:6.53254;stroke-linecap:round;stroke-linejoin:round"
+     d="M 5 0 C 3.8919998 0 3 0.89199992 3 2 L 3 3 C 1.3379999 3 5.9211895e-16 4.338 0 6 L 0 10 C 0 11.108 0.89199992 12 2 12 L 3 12 L 3 14 C 3 15.108 3.8919998 16 5 16 L 11 16 C 12.108 16 13 15.108 13 14 L 13 12 L 14 12 C 15.108 12 16 11.108 16 10 L 16 6 C 16 4.338 14.662 3 13 3 L 13 2 C 13 0.89199992 12.108 0 11 0 L 5 0 z M 5 1 L 11 1 C 11.554 1 12 1.446 12 2 L 12 3 L 4 3 L 4 2 C 4 1.446 4.4459999 1 5 1 z M 3 4 L 13 4 C 14.108 4 15 4.8920001 15 6 L 15 10 C 15 10.554 14.554 11 14 11 L 13 11 C 13 9.8920001 12.108 9 11 9 L 5 9 C 3.8919998 9 3 9.8920001 3 11 L 2 11 C 1.446 11 1 10.554 1 10 L 1 6 C 1 4.8920001 1.8919999 4 3 4 z M 5 10 L 11 10 C 11.554 10 12 10.446 12 11 L 12 14 C 12 14.554 11.554 15 11 15 L 5 15 C 4.4459999 15 4 14.554 4 14 L 4 11 C 4 10.446 4.4459999 10 5 10 z "
+     transform="scale(0.26458333)" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="16px"
+     inkscape:zoom="34.869203"
+     inkscape:cx="2.9825746"
+     inkscape:cy="9.0194203"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+</svg>
