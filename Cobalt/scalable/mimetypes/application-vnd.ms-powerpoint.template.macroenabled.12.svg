@@ -27,7 +27,7 @@
      height="64px"
      inkscape:zoom="12.078125"
      inkscape:cx="31.958603"
-     inkscape:cy="32"
+     inkscape:cy="18.752911"
      inkscape:window-width="1920"
      inkscape:window-height="996"
      inkscape:window-x="0"
@@ -44,7 +44,7 @@
   <path
      id="rect3853"
      style="fill:#fafafa;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
-     d="M 11,4 V 54.999999 H 47 V 4 Z m 37,0 v 50.999999 1 H 47 16 V 60 H 53 V 4 Z"
+     d="M 11,4 V 54.999999 H 49 V 4 Z m 39,0 v 50.999999 1 H 49 16 V 60 H 53 V 4 Z"
      transform="scale(0.26458334)"
      sodipodi:nodetypes="cccccccccccccc" />
   <path
@@ -64,16 +64,15 @@
      id="rect16145"
      style="fill:#ffffff;fill-opacity:1;stroke-width:0.430794;stroke-linecap:round;stroke-linejoin:round"
      d="M 2.6458334,6.8791667 V 11.1125 h 0.666384 V 9.5099253 h 0.6374961 c 0.919024,0 1.5966849,-0.4249632 1.5966849,-1.3439869 0,-0.9592308 -0.6776837,-1.2867717 -1.619683,-1.2867717 z m 0.666384,0.540175 h 0.5513935 c 0.6720361,0 1.0222938,0.1836948 1.0222938,0.7465967 0,0.5456703 -0.327394,0.8040923 -0.9936864,0.8040923 H 3.3122174 Z" />
-  <rect
-     style="fill:#efa276;fill-opacity:1;stroke-width:0.737648;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="rect6964"
-     width="10.054167"
-     height="3.7041667"
-     x="2.6458337"
-     y="0.79375011" />
+     style="fill:#efa276;stroke-width:0.737648;stroke-linecap:round;stroke-linejoin:round"
+     d="m 2.6458337,0.79375011 10.3187493,-1.2e-7 V 4.4979167 l -10.3187493,10e-8 z"
+     sodipodi:nodetypes="ccccc" />
   <path
      id="rect13579"
      style="fill:#dc772e;fill-opacity:1;stroke-width:2.82019;stroke-linecap:round;stroke-linejoin:round"
-     d="M 48 3 L 48 5 L 54 6 L 54 4 L 48 3 z M 10 16 L 10 17 L 48 17 L 48 16 L 10 16 z "
-     transform="scale(0.26458334)" />
+     d="m 48.999999,2.9999999 v 2 L 54,6 V 4 Z M 10,16 v 1 h 38.999999 v -1 z"
+     transform="scale(0.26458334)"
+     sodipodi:nodetypes="cccccccccc" />
 </svg>

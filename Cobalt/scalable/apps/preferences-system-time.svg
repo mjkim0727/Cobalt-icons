@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="preferences-system-time.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="6.1640625"
+     inkscape:cx="13.465146"
+     inkscape:cy="36.583016"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3161">
+      <stop
+         style="stop-color:#c7ccd1;stop-opacity:1;"
+         offset="0"
+         id="stop3157" />
+      <stop
+         style="stop-color:#fdfdfd;stop-opacity:1"
+         offset="1"
+         id="stop3159" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1611">
+      <stop
+         style="stop-color:#9ca3a8;stop-opacity:1;"
+         offset="0"
+         id="stop1607" />
+      <stop
+         style="stop-color:#63737d;stop-opacity:1"
+         offset="1"
+         id="stop1609" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3161"
+       id="linearGradient3163"
+       x1="8.4666662"
+       y1="15.345833"
+       x2="8.4666662"
+       y2="1.5874995"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.96153848,0,0,0.96153848,0.32564186,0.32564186)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1611"
+       id="linearGradient1025"
+       x1="8.4666662"
+       y1="0.52916616"
+       x2="8.4666653"
+       y2="16.404167"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <circle
+     style="fill:url(#linearGradient1025);stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     id="path857"
+     cx="8.4666662"
+     cy="8.4666662"
+     r="7.9375" />
+  <circle
+     style="fill:url(#linearGradient3163);fill-opacity:1;stroke-width:0.254407"
+     id="path2899"
+     cx="8.4666672"
+     cy="8.4666672"
+     r="6.6145835" />
+  <path
+     id="rect3855"
+     style="fill:#d73a02;stroke-width:0.264583"
+     d="m 8.4666669,8.4666672 c 0.1465792,0 0.2645834,0.1180041 0.2645834,0.2645833 v 5.2916665 c 0,0.146579 -0.1180042,0.264583 -0.2645834,0.264583 -0.1465791,0 -0.2645833,-0.118004 -0.2645833,-0.264583 V 8.7312505 c 0,-0.1465792 0.1180042,-0.2645833 0.2645833,-0.2645833 z" />
+  <path
+     id="rect4157"
+     style="fill:#3f4545;stroke-width:0.264583"
+     d="m 4.3708349,6.1123369 c -0.146579,0.2538826 -0.06019,0.5762757 0.193689,0.7228551 L 8.0015618,8.819567 C 8.2554441,8.9661461 8.5778381,8.8797613 8.7244171,8.6258787 8.8709961,8.3719962 8.7846111,8.0496024 8.5307281,7.9030233 L 5.0936901,5.9186484 C 4.8398079,5.7720692 4.5174139,5.8584543 4.3708349,6.1123369 Z" />
+  <path
+     id="rect4625"
+     style="fill:#3f4545;stroke-width:0.264583"
+     transform="rotate(45)"
+     d="m 12.084049,-5.5296578 c 0.14658,0 0.264584,0.1180042 0.264584,0.2645835 v 5.29166655 c 0,0.14657931 -0.118004,0.26458359 -0.264584,0.26458359 -0.146579,0 -0.264583,-0.11800428 -0.264583,-0.26458359 V -5.2650743 c 0,-0.1465793 0.118004,-0.2645835 0.264583,-0.2645835 z" />
+  <circle
+     style="fill:#0c0c0c;fill-opacity:1;stroke-width:0.264583"
+     id="path3553"
+     cx="8.4666672"
+     cy="8.4666672"
+     r="1.0583334" />
+</svg>
