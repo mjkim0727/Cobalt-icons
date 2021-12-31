@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="text-xml.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="6.0390625"
+     inkscape:cx="27.653299"
+     inkscape:cy="55.886158"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect846"
+     style="fill:#7d7d7b;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     d="M 2.6458333,0.79374999 H 11.1125 L 14.2875,3.96875 V 16.139584 H 2.6458333 Z"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     id="rect1454"
+     style="fill:#fafafa;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 11 4 L 11 60 L 53 60 L 53 16.5 L 41.5 16.5 C 40.945997 16.5 40.5 16.054 40.5 15.5 L 40.5 4 L 11 4 z M 41.5 4 L 41.5 15.5 L 53 15.5 L 41.5 4 z "
+     transform="scale(0.26458334)" />
+  <path
+     id="path31262"
+     style="font-size:5.61078px;line-height:1.25;font-family:'Noto Sans CJK KR';-inkscape-font-specification:'Noto Sans CJK KR';text-align:center;text-anchor:middle;stroke-width:0.530154;fill:#eb90eb;fill-opacity:1"
+     d="M 34.427734 25.322266 L 28.066406 45.955078 L 29.486328 45.955078 L 35.828125 25.322266 L 34.427734 25.322266 z M 27.048828 29.519531 L 16.869141 33.527344 L 16.869141 35.054688 L 27.048828 39.0625 L 27.048828 37.367188 L 22.023438 35.521484 L 18.841797 34.333984 L 18.841797 34.25 L 22.023438 33.0625 L 27.048828 31.195312 L 27.048828 29.519531 z M 36.951172 29.519531 L 36.951172 31.195312 L 41.957031 33.0625 L 45.136719 34.25 L 45.136719 34.333984 L 41.957031 35.521484 L 36.951172 37.367188 L 36.951172 39.0625 L 47.130859 35.054688 L 47.130859 33.527344 L 36.951172 29.519531 z "
+     transform="scale(0.26458334)" />
+</svg>

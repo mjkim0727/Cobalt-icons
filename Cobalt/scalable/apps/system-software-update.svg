@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="system-software-update.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="48px"
+     inkscape:zoom="5.656854"
+     inkscape:cx="40.658642"
+     inkscape:cy="34.206292"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1014">
+      <stop
+         style="stop-color:#19aeff;stop-opacity:1;"
+         offset="0"
+         id="stop1010" />
+      <stop
+         style="stop-color:#0063b0;stop-opacity:1"
+         offset="1"
+         id="stop1012" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1014"
+       id="linearGradient1016"
+       x1="2.3812497"
+       y1="4.2333331"
+       x2="13.493751"
+       y2="14.287499"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <circle
+     style="fill:url(#linearGradient1016);fill-opacity:1;stroke-width:2.99161;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:35.8992, 2.99161"
+     id="path850"
+     cx="8.4666662"
+     cy="8.4666662"
+     r="7.6729164" />
+</svg>

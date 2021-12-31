@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="x-office-spreadsheet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="8.5405241"
+     inkscape:cx="25.642454"
+     inkscape:cy="37.995326"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect846"
+     style="fill:#7d7d7b;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     d="M 2.6458333,0.79374999 H 11.1125 L 14.2875,3.96875 V 16.139584 H 2.6458333 Z"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     id="rect1454"
+     style="fill:#fafafa;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 11 4 L 11 60 L 53 60 L 53 16.5 L 41.5 16.5 C 40.945997 16.5 40.5 16.054 40.5 15.5 L 40.5 4 L 11 4 z M 41.5 4 L 41.5 15.5 L 53 15.5 L 41.5 4 z "
+     transform="scale(0.26458334)" />
+  <path
+     id="rect5723"
+     style="fill:#67c451;fill-opacity:1;stroke-width:3.16973;stroke-linecap:round;stroke-linejoin:round"
+     d="M 27 18 L 27 24 L 37 24 L 37 18 L 27 18 z M 39 18 L 39 24 L 49 24 L 49 18 L 39 18 z M 15 26 L 15 32 L 25 32 L 25 26 L 15 26 z M 27 26 L 27 32 L 37 32 L 37 26 L 27 26 z M 39 26 L 39 32 L 49 32 L 49 26 L 39 26 z M 15 34 L 15 40 L 25 40 L 25 34 L 15 34 z M 27 34 L 27 40 L 37 40 L 37 34 L 27 34 z M 39 34 L 39 40 L 49 40 L 49 34 L 39 34 z M 15 42 L 15 48 L 25 48 L 25 42 L 15 42 z M 27 42 L 27 48 L 37 48 L 37 42 L 27 42 z M 39 42 L 39 48 L 49 48 L 49 42 L 39 42 z M 27 50 L 27 56 L 37 56 L 37 50 L 27 50 z M 39 50 L 39 56 L 49 56 L 49 50 L 39 50 z "
+     transform="scale(0.26458334)" />
+  <path
+     id="rect5959"
+     style="fill:#c0c5cb;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round"
+     d="M 15 10 L 15 16 L 25 16 L 25 10 L 15 10 z M 27 10 L 27 16 L 37 16 L 37 10 L 27 10 z M 39 10 L 39 16 L 40.634766 16 C 40.549794 15.852862 40.5 15.682796 40.5 15.5 L 40.5 10 L 39 10 z M 15 18 L 15 24 L 25 24 L 25 18 L 15 18 z M 15 50 L 15 56 L 25 56 L 25 50 L 15 50 z "
+     transform="scale(0.26458334)" />
+</svg>
