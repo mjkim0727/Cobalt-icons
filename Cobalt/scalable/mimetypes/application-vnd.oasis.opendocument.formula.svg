@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="application-vnd.oasis.opendocument.formula.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="4.2702621"
+     inkscape:cx="11.708883"
+     inkscape:cy="16.743703"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect846"
+     style="fill:#7d7d7b;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     d="M 2.6458333,0.79374999 H 11.1125 L 14.2875,3.96875 V 16.139584 H 2.6458333 Z"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     id="rect1454"
+     style="fill:#fafafa;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     d="M 11 4 L 11 60 L 53 60 L 53 16.5 L 41.5 16.5 C 40.945997 16.5 40.5 16.054 40.5 15.5 L 40.5 4 L 11 4 z M 41.5 4 L 41.5 15.5 L 53 15.5 L 41.5 4 z "
+     transform="scale(0.26458334)" />
+  <path
+     id="rect844"
+     style="opacity:1;fill:#808080;stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round"
+     d="M 30 28 L 27.25 40 L 23.5 35 L 22 36 L 28 44 L 31.455078 30 L 42 30 L 42 28 L 32 28 L 30 28 z M 32 33 L 35 38 L 32 43 L 34 43 L 36.5 39 L 39 43 L 41 43 L 38 38 L 41 33 L 39 33 L 36.5 37 L 34 33 L 32 33 z "
+     transform="scale(0.26458334)" />
+  <path
+     id="rect3044"
+     style="opacity:1;fill:#b3b3b3;stroke-width:4.11594;stroke-linecap:round;stroke-linejoin:round"
+     d="M 18 20 L 18 24 L 14 24 L 14 26 L 18 26 L 18 46 L 14 46 L 14 48 L 18 48 L 18 52 L 20 52 L 20 48 L 44 48 L 44 52 L 46 52 L 46 48 L 50 48 L 50 46 L 46 46 L 46 26 L 50 26 L 50 24 L 46 24 L 46 20 L 44 20 L 44 24 L 20 24 L 20 20 L 18 20 z M 20 26 L 44 26 L 44 46 L 20 46 L 20 26 z "
+     transform="scale(0.26458334)" />
+</svg>
