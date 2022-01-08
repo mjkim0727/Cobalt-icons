@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="software-properties.svg"
+   sodipodi:docname="software-store.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,11 +26,11 @@
      showgrid="false"
      units="px"
      height="64px"
-     inkscape:zoom="2.4906574"
-     inkscape:cx="-31.317033"
-     inkscape:cy="14.654765"
+     inkscape:zoom="12.421875"
+     inkscape:cx="32"
+     inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -115,6 +115,34 @@
      id="rect1335"
      style="fill:url(#linearGradient7211);stroke-width:0.264583;fill-opacity:1"
      d="m 1.8520834,3.1750001 c -0.4397375,0 -0.79375,0.3540125 -0.79375,0.79375 v 7.6729169 c 0,2.345267 1.8880667,4.233333 4.2333334,4.233333 h 6.3500002 c 2.345267,0 4.233333,-1.888066 4.233333,-4.233333 V 3.9687501 c 0,-0.4397375 -0.354012,-0.79375 -0.79375,-0.79375 z" />
+  <rect
+     style="fill:#f25022;fill-opacity:1;stroke-width:0.889732;stroke-linejoin:round"
+     id="rect942"
+     width="2.9104166"
+     height="2.9104166"
+     x="5.2916665"
+     y="6.3499999" />
+  <rect
+     style="fill:#00a4ef;fill-opacity:1;stroke-width:1.02721;stroke-linejoin:round"
+     id="rect1090"
+     width="2.9104166"
+     height="2.9104166"
+     x="5.2916665"
+     y="9.7895823" />
+  <rect
+     style="fill:#7fba00;fill-opacity:1;stroke-width:1.02721;stroke-linejoin:round"
+     id="rect1274"
+     width="2.9104166"
+     height="2.9104166"
+     x="8.7312498"
+     y="6.3499999" />
+  <rect
+     style="fill:#ffb900;fill-opacity:1;stroke-width:1.02721;stroke-linejoin:round"
+     id="rect1408"
+     width="2.9104166"
+     height="2.9104166"
+     x="8.7312498"
+     y="9.7895823" />
   <path
      id="rect846"
      style="fill:url(#linearGradient5963);fill-opacity:1;stroke-width:0.247495"

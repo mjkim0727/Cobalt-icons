@@ -28,10 +28,10 @@
      height="64px"
      showguides="false"
      inkscape:zoom="12.078125"
-     inkscape:cx="31.958603"
+     inkscape:cx="32"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="996"
+     inkscape:window-height="1009"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -181,7 +181,7 @@
        gradientUnits="userSpaceOnUse" />
   </defs>
   <circle
-     style="fill:url(#linearGradient5015);fill-opacity:1;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;opacity:0.5"
+     style="fill:url(#linearGradient5015);fill-opacity:1;stroke-width:0.79375;stroke-linecap:round;stroke-linejoin:round;opacity:1"
      id="path4927"
      cx="10.847917"
      cy="6.0854163"
