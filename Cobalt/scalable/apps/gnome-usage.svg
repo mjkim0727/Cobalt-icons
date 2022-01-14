@@ -36,12 +36,10 @@
        gradientTransform="matrix(1,0,0,0.91665,49.175,7.5514)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#26b4eb"
          offset="0"
          id="stop2"
          style="stop-color:#b6c1cb;stop-opacity:1" />
       <stop
-         stop-color="#017adc"
          offset="1"
          id="stop4"
          style="stop-color:#8e979e;stop-opacity:1" />
