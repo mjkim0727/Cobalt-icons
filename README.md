@@ -6,7 +6,7 @@ Windows 11 Style icons for Linux
 
 ## Based on
 
-* Fluent-icon-theme (https://github.com/vinceliuice/Fluent-icon-theme)
+* [!Fluent-icon-theme by vinceliuice](https://github.com/vinceliuice/Fluent-icon-theme)
 
 ## Preview
 
