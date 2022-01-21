@@ -4,8 +4,9 @@ Name[en]=Cobalt
 Name[ja]=コバルト
 Name[ko]=코발트
 Name[zh_TW]=Cobalt
-Comment=Win11 style icon theme
-Comment=Windows 11에서 영감을 얻은 아이콘 테마
+Comment=Windows 11 style icon theme
+Comment[en]=Windows 11 style icon theme
+Comment[ko]=Windows 11에서 영감을 얻은 아이콘 테마
 Inherits=Breeze,hicolor
 Example=folder
 
