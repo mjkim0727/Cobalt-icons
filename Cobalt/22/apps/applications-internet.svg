@@ -7,8 +7,8 @@
    viewBox="0 0 5.8208332 5.8208336"
    version="1.1"
    id="svg69118"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="preferences-system-network.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="applications-internet.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -26,10 +26,10 @@
      showgrid="false"
      units="px"
      inkscape:zoom="24.15625"
-     inkscape:cx="9.1694696"
-     inkscape:cy="9.686934"
+     inkscape:cx="9.1901682"
+     inkscape:cy="9.6662354"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,32 +38,32 @@
      id="defs69115">
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient59376"
-       id="linearGradient59378"
-       x1="45.787689"
-       y1="-43.129013"
-       x2="45.593357"
-       y2="-14.11183"
+       xlink:href="#linearGradient984"
+       id="linearGradient7450"
+       x1="2.9104171"
+       y1="3.1750004"
+       x2="14.552084"
+       y2="12.700001"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.18143713,0,0,0.18197494,-5.3971701,8.1129832)" />
+       gradientTransform="matrix(0.34482758,0,0,0.34482758,-0.00912378,-0.00912383)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient59376">
+       id="linearGradient984">
       <stop
-         style="stop-color:#189ae1;stop-opacity:1;"
+         style="stop-color:#26b4eb;stop-opacity:1;"
          offset="0"
-         id="stop59372" />
+         id="stop980" />
       <stop
-         style="stop-color:#037cd6;stop-opacity:0.99607843"
+         style="stop-color:#15b393;stop-opacity:1"
          offset="1"
-         id="stop59374" />
+         id="stop982" />
     </linearGradient>
   </defs>
   <circle
-     style="fill:url(#linearGradient59378);fill-opacity:1;stroke-width:0.144229;stroke-linecap:round;stroke-linejoin:round"
-     id="path55509"
+     style="fill:url(#linearGradient7450);fill-opacity:1;stroke-width:0.388497;stroke-linecap:round;stroke-linejoin:round"
+     id="path7362"
      cx="2.9104164"
-     cy="2.9104166"
+     cy="2.9104164"
      r="2.6458333" />
   <path
      id="path69248"
