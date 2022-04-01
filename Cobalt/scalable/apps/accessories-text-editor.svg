@@ -7,8 +7,8 @@
    viewBox="0 0 16.933333 16.933334"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="accessories-text-editor.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="org.gnome.Gedit.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -28,9 +28,9 @@
      height="64px"
      inkscape:zoom="5.6568542"
      inkscape:cx="-4.4194174"
-     inkscape:cy="51.707183"
+     inkscape:cy="51.707184"
      inkscape:window-width="1920"
-     inkscape:window-height="1019"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -144,28 +144,9 @@
      id="rect2484"
      style="fill:#006e8f;stroke-width:0.264583"
      d="m 12.435416,2.6580812e-8 c 0.439737,0 0.79375,0.354012623419188 0.79375,0.793750283419188 V 1.852083 c 0,0.4397377 -0.354013,0.7937503 -0.79375,0.7937503 -0.439738,0 -0.793751,-0.3540126 -0.793751,-0.7937503 V 0.79375031 C 11.641665,0.35401265 11.995678,2.6580812e-8 12.435416,2.6580812e-8 Z" />
-  <rect
-     style="fill:#006e8f;fill-opacity:1;stroke-width:0.264583"
+  <path
      id="rect3688"
-     width="8.4666672"
-     height="1.0583334"
-     x="4.2333336"
-     y="5.2916665"
-     ry="0.26458335" />
-  <rect
-     style="fill:#006e8f;fill-opacity:1;stroke-width:0.264583"
-     id="rect7473"
-     width="8.4666672"
-     height="1.0583334"
-     x="4.2333336"
-     y="7.9375005"
-     ry="0.26458335" />
-  <rect
-     style="fill:#006e8f;fill-opacity:1;stroke-width:0.264583"
-     id="rect7577"
-     width="8.4666672"
-     height="1.0583339"
-     x="4.2333336"
-     y="10.583332"
-     ry="0.26458335" />
+     style="fill:#006e8f;fill-opacity:1;stroke-width:0.999999"
+     d="M 17 20 C 16.446 20 16 20.446 16 21 L 16 23 C 16 23.554 16.446 24 17 24 L 47 24 C 47.554 24 48 23.554 48 23 L 48 21 C 48 20.446 47.554 20 47 20 L 17 20 z M 17 30 C 16.446 30 16 30.446 16 31 L 16 33 C 16 33.554 16.446 34 17 34 L 47 34 C 47.554 34 48 33.554 48 33 L 48 31 C 48 30.446 47.554 30 47 30 L 17 30 z M 17 40 C 16.446 40 16 40.446 16 41 L 16 43 C 16 43.554 16.446 44 17 44 L 47 44 C 47.554 44 48 43.554 48 43 L 48 41 C 48 40.446 47.554 40 47 40 L 17 40 z "
+     transform="scale(0.26458334)" />
 </svg>
