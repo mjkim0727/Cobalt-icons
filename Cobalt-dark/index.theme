@@ -56,6 +56,11 @@ Context=Places
 Size=16
 Type=Fixed
 
+[16/panel]
+Context=Status
+Size=16
+Type=Fixed
+
 [16/status]
 Context=Status
 Size=16
@@ -87,6 +92,11 @@ Context=MimeTypes
 Size=22
 Type=Fixed
 
+[22/panel]
+Context=Status
+Size=22
+Type=Fixed
+
 [22/places]
 Context=Places
 Size=22
@@ -105,6 +115,11 @@ Type=Fixed
 
 [24/devices]
 Context=Devices
+Size=24
+Type=Fixed
+
+[24/panel]
+Context=Status
 Size=24
 Type=Fixed
 

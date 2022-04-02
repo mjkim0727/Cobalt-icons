@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="accessories-calculator.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     width="64px"
+     showguides="false"
+     inkscape:zoom="49.9375"
+     inkscape:cx="7.9899875"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5081">
+      <stop
+         style="stop-color:#8a9198;stop-opacity:1;"
+         offset="0"
+         id="stop5077" />
+      <stop
+         style="stop-color:#63707b;stop-opacity:1"
+         offset="1"
+         id="stop5079" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5081"
+       id="linearGradient986"
+       x1="2.9104166"
+       y1="0.5291667"
+       x2="5.5562496"
+       y2="4.2333331"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.1166665,-0.26458335)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient36146">
+      <stop
+         style="stop-color:#50e6ff;stop-opacity:1;"
+         offset="0"
+         id="stop36142" />
+      <stop
+         style="stop-color:#29b1eb;stop-opacity:1"
+         offset="1"
+         id="stop36144" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient53341">
+      <stop
+         style="stop-color:#114a8b;stop-opacity:1;"
+         offset="0"
+         id="stop53337" />
+      <stop
+         style="stop-color:#173b74;stop-opacity:1"
+         offset="1"
+         id="stop53339" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient36146"
+       id="linearGradient1114"
+       x1="2.9104166"
+       y1="1.0054166"
+       x2="5.0270829"
+       y2="1.7991667"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1.8520833,-0.47625)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient53341"
+       id="linearGradient3080"
+       x1="1.8520834"
+       y1="2.1166668"
+       x2="2.3812501"
+       y2="3.4395833"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.79375001,0.26458334)" />
+  </defs>
+  <rect
+     style="fill:url(#linearGradient986);fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:6.35, 0.529167"
+     id="rect846"
+     width="2.6458333"
+     height="3.7041667"
+     x="0.79374999"
+     y="0.26458335"
+     ry="0.26458335" />
+  <rect
+     style="opacity:1;fill:url(#linearGradient1114);fill-opacity:1;stroke-width:0.264583"
+     id="rect960"
+     width="2.1166668"
+     height="0.79374999"
+     x="1.0583334"
+     y="0.52916664" />
+  <path
+     id="rect2294"
+     style="opacity:1;fill:#cad2d9;fill-opacity:1;stroke-width:0.176389"
+     d="M 1.0583333,1.5875 V 2.1166667 H 1.5875 V 1.5875 Z m 0.7937501,0 V 2.1166667 H 2.38125 V 1.5875 Z m 0.79375,0 V 2.1166667 H 3.1750001 V 1.5875 Z M 1.0583333,2.3812501 V 2.9104167 H 1.5875 V 2.3812501 Z m 0.7937501,0 V 2.9104167 H 2.38125 V 2.3812501 Z m -0.7937501,0.79375 V 3.7041668 H 1.5875 V 3.1750001 Z m 0.7937501,0 V 3.7041668 H 2.38125 V 3.1750001 Z" />
+  <rect
+     style="fill:url(#linearGradient3080);fill-opacity:1;stroke-width:0.278895"
+     id="rect2294-3-6-3"
+     width="0.5291667"
+     height="1.3229166"
+     x="2.6458335"
+     y="2.3812501" />
+</svg>
