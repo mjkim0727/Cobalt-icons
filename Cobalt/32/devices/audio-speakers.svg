@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
-   sodipodi:docname="audio-speakers.svg"
+   sodipodi:docname="xfce4-pulseaudio-plugin.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,7 +27,7 @@
      units="px"
      height="48px"
      inkscape:zoom="24.96875"
-     inkscape:cx="15.979975"
+     inkscape:cx="15.739675"
      inkscape:cy="16"
      inkscape:window-width="1920"
      inkscape:window-height="1004"
@@ -131,17 +131,7 @@
        x2="14.642737"
        y2="2.8644364"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.53191495,0,0,0.53191495,-0.3167555,-0.7313406)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1958"
-       id="linearGradient1960"
-       x1="1.5875"
-       y1="1.5874999"
-       x2="15.837201"
-       y2="15.837203"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.48275861,0,0,0.48275861,0.02737069,0.29195402)" />
+       gradientTransform="matrix(0.51912186,0,0,0.53191495,-0.20621725,-0.7313406)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2831"
@@ -193,17 +183,29 @@
        y2="15.384978"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.40909091,0,0,0.40909091,0.76528368,0.58531208)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1958"
+       id="linearGradient1086"
+       x1="0.79374999"
+       y1="1.0583333"
+       x2="7.6729164"
+       y2="7.9375"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <path
      id="rect1510"
-     style="fill:url(#linearGradient1650);stroke-width:0.422208;stroke-linecap:round;stroke-linejoin:round"
-     d="m 1.4574602,0.79374998 h 5.5213355 l 0.50665,0.33072912 H 0.97895828 Z"
+     style="fill:url(#linearGradient1650);stroke-width:0.4171;stroke-linecap:round;stroke-linejoin:round"
+     d="M 1.5253267,0.79374998 H 6.9138686 L 7.4083332,1.1244791 H 1.0583333 Z"
      sodipodi:nodetypes="ccccc" />
-  <path
-     id="rect1754"
-     style="fill:url(#linearGradient1960);stroke-width:0.383189;stroke-linecap:round;stroke-linejoin:round"
-     d="m 1.190625,1.0583332 h 6.0854165 c 0.2198685,0 0.396875,0.1770062 0.396875,0.3968749 v 6.0854163 c 0,0.219869 -0.1770065,0.396875 -0.396875,0.396875 H 1.190625 c -0.21986882,0 -0.39687502,-0.177006 -0.39687502,-0.396875 V 1.4552081 c 0,-0.2198687 0.1770062,-0.3968749 0.39687502,-0.3968749 z"
-     sodipodi:nodetypes="sssssssss" />
+  <rect
+     style="fill:url(#linearGradient1086);stroke-width:0.264583;stroke-linejoin:round;fill-opacity:1"
+     id="rect998"
+     width="6.8791666"
+     height="6.8791666"
+     x="0.79374999"
+     y="1.0583333"
+     ry="0.52916664" />
   <rect
      style="fill:url(#linearGradient2833);fill-opacity:1;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:round"
      id="rect2693"

@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="computer.svg"
+   sodipodi:docname="video-television.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -43,11 +43,11 @@
        inkscape:collect="always"
        id="linearGradient2986">
       <stop
-         style="stop-color:#818990;stop-opacity:1;"
+         style="stop-color:#333333;stop-opacity:1"
          offset="0"
          id="stop2982" />
       <stop
-         style="stop-color:#9fa8b0;stop-opacity:1"
+         style="stop-color:#666666;stop-opacity:1"
          offset="1"
          id="stop2984" />
     </linearGradient>
@@ -87,11 +87,11 @@
        inkscape:collect="always"
        id="linearGradient2301">
       <stop
-         style="stop-color:#3fe3e7;stop-opacity:1;"
+         style="stop-color:#808080;stop-opacity:1"
          offset="0"
          id="stop2297" />
       <stop
-         style="stop-color:#066bbc;stop-opacity:1"
+         style="stop-color:#333333;stop-opacity:1"
          offset="1"
          id="stop2299" />
     </linearGradient>
@@ -107,7 +107,7 @@
        gradientTransform="translate(0.26458333)" />
   </defs>
   <rect
-     style="fill:#bcc5cf;fill-opacity:1;stroke-width:0.21054;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:#333333;fill-opacity:1;stroke-width:0.21054;stroke-linecap:round;stroke-linejoin:round"
      id="rect2848"
      width="0.5291667"
      height="0.5291667"
@@ -128,8 +128,8 @@
   <rect
      style="fill:url(#linearGradient3955);fill-opacity:1;stroke-width:0.909355;stroke-linecap:round;stroke-linejoin:round"
      id="rect3867"
-     width="3.7041667"
-     height="2.3812499"
+     width="3.7235799"
+     height="2.3859479"
      x="0.26458335"
      y="0.5291667" />
 </svg>
