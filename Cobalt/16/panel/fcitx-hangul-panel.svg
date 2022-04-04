@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333333 4.2333335"
+   version="1.1"
+   id="svg851"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="fcitx-hangul-panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview853"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     showguides="false"
+     inkscape:zoom="11.770382"
+     inkscape:cx="14.867827"
+     inkscape:cy="13.720881"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg851" />
+  <defs
+     id="defs848">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text { color:#363636; }</style>
+  </defs>
+  <path
+     style="color:#000000;-inkscape-font-specification:'Noto Sans CJK KR Medium';fill:#363636;stroke:none;-inkscape-stroke:none"
+     d="M 2.7687261,-4.5e-8 V 0.26367186 4.2324218 H 3.7238042 V 2.34375 H 4.282398 V 1.4628906 H 3.7238042 V -4.5e-8 Z M 0.50700729,0.39257816 V 0.65820313 1.265625 H 1.6925542 C 1.5425873,1.8714387 1.1897731,2.3653249 0.46403859,2.7363281 l -0.27539067,0.140625 0.54882814,0.7558593 0.2011719,-0.099609 C 2.2297643,2.8876451 2.7550542,1.8104891 2.7550542,0.65820313 V 0.39257816 Z"
+     id="path11867" />
+  <path
+     style="color:#000000;-inkscape-font-specification:'Noto Sans CJK KR Medium';fill:#f2f2f2;stroke:none;stroke-width:0.529167;-inkscape-stroke:none"
+     d="M 3.032976,0.26432296 V 3.9684907 H 3.4585097 V 2.0799327 H 4.0177822 V 1.7273478 H 3.4585097 V 0.26432296 Z M 0.77156946,0.65743493 V 1.0019144 H 2.0643809 C 1.9792742,1.8529815 1.4888974,2.5095189 0.58514519,2.9715266 l 0.23505667,0.324216 C 2.036012,2.6878377 2.4899142,1.7354531 2.4899142,0.65743493 Z"
+     id="path11865" />
+</svg>

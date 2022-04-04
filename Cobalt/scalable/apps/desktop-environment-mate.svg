@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933334"
+   version="1.1"
+   id="svg69118"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="desktop-environment-mate.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview69120"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="12.4375"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg69118" />
+  <defs
+     id="defs69115">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient59376"
+       id="linearGradient59378"
+       x1="45.787689"
+       y1="-43.129013"
+       x2="45.593357"
+       y2="-14.11183"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.54431135,0,0,0.54592478,-16.456092,24.074367)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient59376">
+      <stop
+         style="stop-color:#f9f9f9;stop-opacity:1"
+         offset="0"
+         id="stop59372" />
+      <stop
+         style="stop-color:#d4d4d4;stop-opacity:1"
+         offset="1"
+         id="stop59374" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient919">
+      <stop
+         style="stop-color:#3ead39;stop-opacity:1"
+         offset="0"
+         id="stop915" />
+      <stop
+         style="stop-color:#9ec755;stop-opacity:1"
+         offset="1"
+         id="stop917" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient919"
+       id="linearGradient2279"
+       x1="53"
+       y1="54"
+       x2="10"
+       y2="10"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <ellipse
+     style="fill:url(#linearGradient59378);fill-opacity:1;stroke-width:0.432686;stroke-linecap:round;stroke-linejoin:round"
+     id="path55509"
+     cx="8.4666662"
+     cy="8.4666653"
+     rx="7.9375"
+     ry="7.937499" />
+  <path
+     id="path1689"
+     style="fill:url(#linearGradient2279);fill-opacity:1;stroke-width:0.999999;opacity:1"
+     d="m 31.960938,12 c -6.238868,0.01327 -12.11416,2.937203 -15.886719,7.90625 l 2.589843,1.554688 C 21.887431,17.381217 26.800555,15.000928 32,15 c 9.388841,0 17,7.611159 17,17 0,9.388841 -7.611159,17 -17,17 -5.203161,-0.0015 -10.119113,-2.385707 -13.341797,-6.470703 l -2.591797,1.556641 C 19.847322,49.071036 25.743281,51.999501 32,52 43.0457,52 52,43.045696 52,32 52,20.954306 43.0457,12 32,12 Z M 32,20 c -3.444582,9.26e-4 -6.722673,1.482042 -9,4.066406 l 2.630859,1.578125 C 27.318563,23.952319 29.610036,23.000877 32,23 c 4.970563,0 9,4.029437 9,9 0,4.970563 -4.029437,9 -9,9 -2.393796,-8.7e-4 -4.688621,-0.955349 -6.376953,-2.652344 l -2.630859,1.582032 C 25.2706,42.517545 28.552076,44.000333 32,44 38.627415,44 44,38.627419 44,32 44,25.372585 38.627414,20 32,20 Z M 13,21 V 43 L 32,32 Z"
+     transform="scale(0.26458334)"
+     sodipodi:nodetypes="ccccsccccsscccccsccccsccccc" />
+  <path
+     id="path69248"
+     style="opacity:0.2;fill:#4d4d4d;fill-opacity:0.996078;stroke-width:3.42745;stroke-linecap:round;stroke-linejoin:round"
+     d="M 32 2 A 29.999997 29.999997 0 0 0 2 32 A 29.999997 29.999997 0 0 0 32 62 A 29.999997 29.999997 0 0 0 62 32 A 29.999997 29.999997 0 0 0 32 2 z M 32 3 A 29.000001 29.000001 0 0 1 61 32 A 29.000001 29.000001 0 0 1 32 61 A 29.000001 29.000001 0 0 1 3 32 A 29.000001 29.000001 0 0 1 32 3 z "
+     transform="scale(0.26458334)" />
+</svg>
