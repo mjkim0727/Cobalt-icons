@@ -26,8 +26,8 @@
      showgrid="false"
      units="px"
      height="64px"
-     inkscape:zoom="49.9375"
-     inkscape:cx="7.9899875"
+     inkscape:zoom="49"
+     inkscape:cx="8"
      inkscape:cy="8"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -58,29 +58,7 @@
        x2="4.7955728"
        y2="4.8121095"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.83333322,0,0,0.77706549,-2.4088104,-2.0338551)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1130"
-       id="linearGradient1132"
-       x1="13.758333"
-       y1="13.229166"
-       x2="3.7041652"
-       y2="3.7041662"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.26666668,0,0,0.26666668,-0.1411113,-0.14111124)" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1130">
-      <stop
-         style="stop-color:#8f62bc;stop-opacity:1;"
-         offset="0"
-         id="stop1126" />
-      <stop
-         style="stop-color:#f7904e;stop-opacity:1"
-         offset="1"
-         id="stop1128" />
-    </linearGradient>
+       gradientTransform="matrix(0.99999995,0,0,1.0360874,-3.2080728,-3.4173625)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1788"
@@ -90,7 +68,7 @@
        x2="4.4979177"
        y2="4.7625003"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.24,0,0,0.24,0.08466613,0.08466618)" />
+       gradientTransform="matrix(0.28000001,0,0,0.28000001,-0.25400026,-0.2540002)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1788">
@@ -103,6 +81,28 @@
          offset="1"
          id="stop1786" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1130"
+       id="linearGradient1132"
+       x1="13.758333"
+       y1="13.229166"
+       x2="3.7041652"
+       y2="3.7041662"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26666668,0,0,0.26666668,-0.14111125,-0.14111119)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1130">
+      <stop
+         style="stop-color:#8f62bc;stop-opacity:1;"
+         offset="0"
+         id="stop1126" />
+      <stop
+         style="stop-color:#f7904e;stop-opacity:1"
+         offset="1"
+         id="stop1128" />
+    </linearGradient>
   </defs>
   <circle
      style="fill:url(#linearGradient1132);fill-opacity:1;stroke-width:0.141111;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.69333, 0.141111"
@@ -111,14 +111,14 @@
      cy="2.1166668"
      r="2.1166668" />
   <circle
-     style="fill:url(#linearGradient1010);fill-opacity:1;stroke-width:0.127;stroke-linecap:round;stroke-linejoin:round"
+     style="fill:url(#linearGradient1010);fill-opacity:1;stroke-width:0.148167;stroke-linecap:round;stroke-linejoin:round"
      id="path922"
-     cx="2.1166663"
-     cy="2.1166663"
-     r="1.5875" />
+     cx="2.1166666"
+     cy="2.1166666"
+     r="1.8520833" />
   <path
-     style="color:#000000;fill:url(#linearGradient1070);fill-opacity:1;stroke:none;stroke-width:1.14573;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="m 1.6848331,1.3346159 c -0.058372,0.022356 -0.096714,0.075133 -0.097329,0.1339741 v 1.2941416 c -9.649e-4,0.1314283 0.1699053,0.1973603 0.268812,0.103722 L 2.8642054,2.2192841 c 0.061615,-0.057213 0.061615,-0.1502302 0,-0.2074436 L 1.8563166,1.3648681 C 1.8109881,1.323353 1.7432922,1.3114108 1.6848331,1.3346159 Z"
+     style="color:#000000;fill:url(#linearGradient1070);fill-opacity:1;stroke:none;stroke-width:1.44925;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 1.7042997,1.0739324 C 1.6342533,1.1037404 1.5882429,1.1741097 1.5875049,1.2525645 v 1.7255222 c -0.00116,0.1752377 0.2038864,0.263147 0.3225744,0.138296 L 3.1195465,2.25349 c 0.073938,-0.076284 0.073938,-0.200307 0,-0.2765915 L 1.9100799,1.1142686 C 1.8556857,1.0589152 1.7744507,1.0429922 1.7042997,1.0739324 Z"
      id="path2850"
      sodipodi:nodetypes="cccccccc" />
 </svg>
