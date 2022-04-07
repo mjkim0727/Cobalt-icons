@@ -27,12 +27,12 @@
      units="px"
      height="64px"
      inkscape:zoom="49.9375"
-     inkscape:cx="7.9899875"
-     inkscape:cy="8"
+     inkscape:cx="7.8698373"
+     inkscape:cy="7.9399249"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1028"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
@@ -111,15 +111,14 @@
      height="3.7041667"
      x="3.469447e-18"
      y="0.26458335"
-     ry="0.5291667" />
+     ry="0.26458335" />
   <rect
      style="fill:url(#linearGradient1071);fill-opacity:1;stroke-width:0.264583;stroke-linejoin:round"
      id="rect983"
      width="3.7041667"
      height="3.175"
      x="0.26458335"
-     y="0.5291667"
-     ry="0.26458335" />
+     y="0.5291667" />
   <path
      style="color:#000000;fill:url(#linearGradient1070);fill-opacity:1;stroke:none;stroke-width:1.56537;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      d="M 1.459183,1.0739324 C 1.3774622,1.1037404 1.3237834,1.1741097 1.3229224,1.2525645 v 1.7255222 c -0.00135,0.1752377 0.2378675,0.263147 0.3763368,0.138296 L 3.1103043,2.25349 c 0.086261,-0.076284 0.086261,-0.200307 0,-0.2765915 L 1.6992599,1.1142686 C 1.6358,1.0589152 1.5410257,1.0429922 1.459183,1.0739324 Z"
