@@ -27,13 +27,13 @@
      units="px"
      width="64px"
      showguides="false"
-     inkscape:zoom="17.655572"
-     inkscape:cx="-2.8886065"
-     inkscape:cy="13.565123"
+     inkscape:zoom="34.291667"
+     inkscape:cx="11.985419"
+     inkscape:cy="12"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1028"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
   <defs
@@ -56,10 +56,10 @@
        id="linearGradient986"
        x1="2.9104166"
        y1="0.5291667"
-       x2="7.1437497"
-       y2="6.3500004"
+       x2="6.8791666"
+       y2="5.8208342"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-1.8520831,-0.26458336)" />
+       gradientTransform="translate(-1.5874998)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient36146">
@@ -90,10 +90,10 @@
        id="linearGradient1114"
        x1="2.9104166"
        y1="1.0054166"
-       x2="5.0270829"
-       y2="1.7991667"
+       x2="5.1971726"
+       y2="1.6404167"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.2727273,0,0,1.6666666,-2.38125,-1.1465277)" />
+       gradientTransform="matrix(1.2727273,0,0,1.6666666,-1.8520836,-0.61736101)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient53341"
@@ -103,78 +103,34 @@
        x2="2.3812501"
        y2="3.4395833"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(2,0,0,1.8000001,0.26458316,-9.630834)" />
+       gradientTransform="matrix(1.4999999,0,0,1.4,1.1906247,-8.2550001)" />
   </defs>
   <rect
      style="fill:url(#linearGradient986);fill-opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:6.35, 0.529167"
      id="rect846"
-     width="4.2333336"
-     height="5.8208332"
-     x="1.0583334"
-     y="0.26458335"
+     width="3.96875"
+     height="5.291667"
+     x="1.3229167"
+     y="0.5291667"
      ry="0.26458335" />
   <rect
      style="opacity:1;fill:url(#linearGradient1114);fill-opacity:1;stroke-width:0.385349"
      id="rect960"
-     width="3.7041667"
-     height="1.3229167"
-     x="1.3229167"
-     y="0.52916664" />
+     width="2.9104168"
+     height="1.0583334"
+     x="1.8520832"
+     y="1.0583334" />
   <rect
-     style="fill:url(#linearGradient3080);fill-opacity:1;stroke-width:0.529165"
+     style="fill:url(#linearGradient3080);fill-opacity:1;stroke-width:0.404156"
      id="rect2294-3-6-3"
-     width="1.0583334"
-     height="2.3812501"
-     x="3.9687502"
-     y="-5.8208337"
+     width="0.79375005"
+     height="1.8520833"
+     x="3.96875"
+     y="-5.291666"
      transform="scale(1,-1)" />
-  <rect
-     style="fill:#cad2d9;fill-opacity:1;stroke-width:0.264583"
+  <path
      id="rect1757"
-     width="1.0583334"
-     height="1.0583334"
-     x="1.3229166"
-     y="2.1166668" />
-  <rect
      style="fill:#cad2d9;fill-opacity:1;stroke-width:0.264583"
-     id="rect1757-3"
-     width="1.0583334"
-     height="1.0583334"
-     x="2.6458333"
-     y="2.1166666" />
-  <rect
-     style="fill:#cad2d9;fill-opacity:1;stroke-width:0.264583"
-     id="rect1757-3-6"
-     width="1.0583334"
-     height="1.0583334"
-     x="3.9687502"
-     y="2.1166668" />
-  <rect
-     style="fill:#cad2d9;fill-opacity:1;stroke-width:0.264583"
-     id="rect1757-7"
-     width="1.0583334"
-     height="1.0583334"
-     x="1.3229167"
-     y="3.4395835" />
-  <rect
-     style="fill:#cad2d9;fill-opacity:1;stroke-width:0.264583"
-     id="rect1757-3-5"
-     width="1.0583334"
-     height="1.0583334"
-     x="2.6458333"
-     y="3.4395833" />
-  <rect
-     style="fill:#cad2d9;fill-opacity:1;stroke-width:0.264583"
-     id="rect1757-7-5"
-     width="1.0583334"
-     height="1.0583334"
-     x="1.3229167"
-     y="4.7625003" />
-  <rect
-     style="fill:#cad2d9;fill-opacity:1;stroke-width:0.264583"
-     id="rect1757-3-5-6"
-     width="1.0583334"
-     height="1.0583334"
-     x="2.6458333"
-     y="4.7625003" />
+     d="m 1.8520833,2.3812499 v 0.79375 h 0.79375 v -0.79375 z m 1.0583333,0 v 0.79375 h 0.7937501 v -0.79375 z m 1.0583334,0 v 0.79375 H 4.7625 v -0.79375 z M 1.8520833,3.4395833 v 0.79375 h 0.79375 v -0.79375 z m 1.0583333,0 v 0.79375 h 0.7937501 v -0.79375 z M 1.8520833,4.4979166 v 0.7937501 h 0.79375 V 4.4979166 Z m 1.0583333,0 V 5.2916667 H 3.7041667 V 4.4979166 Z"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
 </svg>
