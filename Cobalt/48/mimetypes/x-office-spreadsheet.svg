@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   sodipodi:docname="x-office-spreadsheet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     height="64px"
+     inkscape:zoom="16.791667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="rect846"
+     style="fill:#7d7d7b;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     d="M 2.1166667,0.52916667 H 7.9375 L 10.583333,3.175 v 8.995834 H 2.1166667 Z"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     id="rect1454"
+     style="fill:#fafafa;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"
+     d="M 2.3812501,0.79375008 V 11.906251 H 10.31875 V 3.5718751 H 7.8052086 c -0.14658,0 -0.2947802,-0.1211482 -0.2645833,-0.2645833 V 0.79375008 Z m 5.4239585,0 V 3.3072918 H 10.31875 Z"
+     sodipodi:nodetypes="ccccsscccccc" />
+  <path
+     id="rect954"
+     style="opacity:1;fill:#67c451;fill-opacity:1;stroke-width:0.529167;stroke-linejoin:round"
+     d="M 5.2916666,3.7041667 V 5.0270834 H 7.4083332 V 3.7041667 Z m 2.3812498,0 V 5.0270834 H 9.7895835 V 3.7041667 Z M 2.9104167,5.2916666 V 6.6145833 H 5.0270833 V 5.2916666 Z m 2.3812499,0 V 6.6145833 H 7.4083332 V 5.2916666 Z m 2.3812498,0 V 6.6145833 H 9.7895835 V 5.2916666 Z M 2.9104167,6.8791665 V 8.2020831 H 5.0270833 V 6.8791665 Z m 2.3812499,0 V 8.2020831 H 7.4083332 V 6.8791665 Z m 2.3812498,0 V 8.2020831 H 9.7895835 V 6.8791665 Z m -4.7624997,1.5875 V 9.7895833 H 5.0270833 V 8.4666665 Z m 2.3812499,0 V 9.7895833 H 7.4083332 V 8.4666665 Z m 2.3812498,0 V 9.7895833 H 9.7895835 V 8.4666665 Z M 5.2916666,10.054166 v 1.322918 h 2.1166666 v -1.322918 z m 2.3812498,0 v 1.322918 h 2.1166671 v -1.322918 z"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  <path
+     id="path5172"
+     style="opacity:1;fill:#c0c5cb;fill-opacity:1;stroke-width:0.529168;stroke-linejoin:round"
+     d="M 11 8 L 11 13 L 19 13 L 19 8 L 11 8 z M 20 8 L 20 13 L 28 13 L 28 8 L 20 8 z M 11 14 L 11 19 L 19 19 L 19 14 L 11 14 z M 11 38 L 11 43 L 19 43 L 19 38 L 11 38 z "
+     transform="scale(0.26458333)" />
+</svg>
