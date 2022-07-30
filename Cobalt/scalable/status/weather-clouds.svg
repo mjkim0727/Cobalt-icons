@@ -7,7 +7,7 @@
    viewBox="0 0 16.933333 16.933333"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="weather-clouds.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,30 +26,20 @@
      showgrid="false"
      units="px"
      height="48px"
-     inkscape:zoom="1"
-     inkscape:cx="35"
-     inkscape:cy="34"
+     inkscape:zoom="6.1875"
+     inkscape:cx="6.5454545"
+     inkscape:cy="26.181818"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5"
-     inkscape:lockguides="true" />
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1014">
-      <stop
-         style="stop-color:#ffc984;stop-opacity:1"
-         offset="0"
-         id="stop1010" />
-      <stop
-         style="stop-color:#e97701;stop-opacity:1"
-         offset="1"
-         id="stop1012" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1014"
@@ -59,7 +49,19 @@
        x2="13.493751"
        y2="14.287499"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.79310348,0,0,0.79310348,1.7517241,1.7517241)" />
+       gradientTransform="matrix(0.48275864,0,0,0.48275864,0.14597731,0.14597731)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1014">
+      <stop
+         style="stop-color:#fecf00;stop-opacity:1"
+         offset="0"
+         id="stop1010" />
+      <stop
+         style="stop-color:#e35e01;stop-opacity:1"
+         offset="1"
+         id="stop1012" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1468"
@@ -69,7 +71,7 @@
        x2="60"
        y2="59"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.26458333)" />
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,0,-0.79374991)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1468">
@@ -96,41 +98,45 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient5807"
+       xlink:href="#linearGradient1964"
        id="linearGradient5809"
-       x1="28"
-       y1="44"
-       x2="57.166016"
-       y2="58"
+       x1="55"
+       y1="56"
+       x2="25.534029"
+       y2="42.667934"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(0.26458333)" />
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,0,-0.79374991)" />
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient5807">
+       id="linearGradient1964">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop5803" />
+         style="stop-color:#ebf6ff;stop-opacity:1"
+         offset="0.46016201"
+         id="stop1956" />
       <stop
-         style="stop-color:#000000;stop-opacity:0;"
+         style="stop-color:#bdd8f0;stop-opacity:1"
          offset="1"
-         id="stop5805" />
+         id="stop1962" />
     </linearGradient>
   </defs>
-  <circle
-     style="fill:url(#linearGradient1016);fill-opacity:1;stroke-width:2.37265;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:28.4718, 2.37265"
-     id="path850"
-     cx="8.4666662"
-     cy="8.4666662"
-     r="6.0854163" />
+  <g
+     id="g329"
+     transform="matrix(1.6428571,0,0,1.6428571,1.5119051,1.5119051)">
+    <circle
+       style="fill:url(#linearGradient1016);fill-opacity:1;stroke-width:1.44422;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:17.3307, 1.44422"
+       id="path850"
+       cx="4.2333331"
+       cy="4.2333331"
+       r="3.7041667" />
+  </g>
   <path
      id="path852"
      style="fill:url(#linearGradient1368);fill-opacity:1;stroke-width:0.246944"
-     d="m 10.054167,8.2020832 c -1.63923,5.9e-4 -3.0831331,1.078525 -3.5496547,2.6499668 -1.2703567,0.05878 -2.2703306,1.1054 -2.2711791,2.377116 0,1.315128 1.0661218,2.38125 2.38125,2.38125 h 6.6145828 c 1.465792,0 2.645834,-1.180041 2.645834,-2.645833 0,-1.407054 -1.087476,-2.550743 -2.471167,-2.640149 C 12.791845,9.0285742 11.487269,8.2019932 10.054167,8.2020832 Z"
+     d="m 10.054167,7.4083332 c -1.6392304,5.903e-4 -3.083133,1.078525 -3.5496547,2.6499678 -1.2703567,0.05878 -2.2703306,1.105399 -2.2711791,2.377115 0,1.315128 1.0661218,2.38125 2.3812499,2.38125 h 6.6145839 c 1.465792,0 2.645833,-1.180042 2.645833,-2.645834 0,-1.407053 -1.087475,-2.550742 -2.471167,-2.640148 -0.611987,-1.29586 -1.916564,-2.1224405 -3.349666,-2.1223508 z"
      sodipodi:nodetypes="cccccscc" />
   <path
      id="path2276"
-     style="opacity:0.05;fill:url(#linearGradient5809);fill-opacity:1;stroke-width:0.264583"
-     d="m 10.054167,9.5250002 c -1.2571,7.14e-4 -2.3401281,0.8858978 -2.5910571,2.1176998 -0.01825,-6.6e-4 -0.03651,-10e-4 -0.05478,-10e-4 -0.8767517,0 -1.5874997,0.710748 -1.5874997,1.5875 0,0.876752 0.710748,1.5875 1.5874997,1.5875 h 5.2916671 c 1.026054,0 1.852083,-0.826029 1.852083,-1.852083 0,-1.026054 -0.826029,-1.852083 -1.852083,-1.852083 h -0.220658 c -0.42085,-0.964289 -1.37305,-1.5875908 -2.425175,-1.5874998 z"
+     style="fill:url(#linearGradient5809);fill-opacity:1;stroke-width:0.264583"
+     d="M 10.054167,8.7312498 C 8.7970666,8.7319642 7.7140388,9.617148 7.4631101,10.848949 c -0.018252,-6.6e-4 -0.036513,-10e-4 -0.054777,-10e-4 -0.8767519,0 -1.5874999,0.710748 -1.5874999,1.5875 0,0.876751 0.710748,1.5875 1.5874999,1.5875 H 12.7 c 1.026054,0 1.852084,-0.82603 1.852084,-1.852084 0,-1.026054 -0.82603,-1.852083 -1.852084,-1.852083 H 12.479342 C 12.058492,9.354461 11.106292,8.7311588 10.054167,8.7312498 Z"
      sodipodi:nodetypes="cccsccsscc" />
 </svg>

@@ -7,7 +7,7 @@
    viewBox="0 0 8.4666665 8.466667"
    version="1.1"
    id="svg69118"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="dialog-information.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,15 +25,17 @@
      inkscape:document-units="px"
      showgrid="false"
      units="px"
-     inkscape:zoom="24.15625"
-     inkscape:cx="15.979301"
+     inkscape:zoom="24.75"
+     inkscape:cx="15.979798"
      inkscape:cy="16"
      inkscape:window-width="1920"
-     inkscape:window-height="996"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg69118" />
+     inkscape:current-layer="svg69118"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs69115">
     <linearGradient
@@ -67,9 +69,9 @@
      rx="3.96875"
      ry="3.9687498" />
   <path
-     id="rect74015"
-     style="fill:#ffffff;fill-opacity:1;stroke-width:0.435282;stroke-linecap:round;stroke-linejoin:round"
-     d="m 4.2310429,1.9843749 c -0.2089349,0 -0.3482826,0.1394836 -0.3482826,0.3426148 0,0.2147385 0.1393477,0.3539502 0.3482826,0.3539502 0.2089347,0 0.3539501,-0.1392117 0.3539501,-0.3539502 0,-0.2031312 -0.1450154,-0.3426148 -0.3539501,-0.3426148 z M 3.9640924,3.3310294 V 6.4822918 H 4.4979932 V 3.3310294 Z" />
+     id="path491"
+     style="fill:#ffffff;stroke-width:0.198436;stroke-linecap:round;stroke-linejoin:round"
+     d="M 4.1010417 1.8520834 A 0.39687499 0.39687499 0 0 0 3.7041667 2.2489584 A 0.39687499 0.39687499 0 0 0 4.1010417 2.6458334 A 0.39687499 0.39687499 0 0 0 4.4979167 2.2489584 A 0.39687499 0.39687499 0 0 0 4.1010417 1.8520834 z M 4.1010417 3.4395834 C 3.8811732 3.4395834 3.7041667 3.6165898 3.7041667 3.8364584 L 3.7041667 6.2177084 C 3.7041667 6.4375769 3.8811732 6.6145834 4.1010417 6.6145834 C 4.3209103 6.6145834 4.4979167 6.4375769 4.4979167 6.2177084 L 4.4979167 3.8364584 C 4.4979167 3.6165898 4.3209103 3.4395834 4.1010417 3.4395834 z " />
   <path
      id="path69248"
      style="opacity:0.2;fill:#4d4d4d;fill-opacity:0.996078;stroke-width:0.453423;stroke-linecap:round;stroke-linejoin:round"

@@ -7,7 +7,7 @@
    viewBox="0 0 16.933333 16.933333"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="weather-clear.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,30 +26,20 @@
      showgrid="false"
      units="px"
      height="48px"
-     inkscape:zoom="12.28125"
-     inkscape:cx="32"
+     inkscape:zoom="12.375"
+     inkscape:cx="31.959596"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5"
-     inkscape:lockguides="true" />
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1014">
-      <stop
-         style="stop-color:#ffc984;stop-opacity:1"
-         offset="0"
-         id="stop1010" />
-      <stop
-         style="stop-color:#e97701;stop-opacity:1"
-         offset="1"
-         id="stop1012" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1014"
@@ -59,12 +49,24 @@
        x2="13.493751"
        y2="14.287499"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.9310345,0,0,0.9310345,0.58390802,0.58390802)" />
+       gradientTransform="matrix(0.79310352,0,0,0.79310352,1.7517248,1.7517255)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1014">
+      <stop
+         style="stop-color:#fecf00;stop-opacity:1"
+         offset="0"
+         id="stop1010" />
+      <stop
+         style="stop-color:#e35e01;stop-opacity:1"
+         offset="1"
+         id="stop1012" />
+    </linearGradient>
   </defs>
   <circle
-     style="fill:url(#linearGradient1016);fill-opacity:1;stroke-width:2.78529;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:33.4234, 2.78529"
+     style="fill:url(#linearGradient1016);fill-opacity:1;stroke-width:2.37264;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:28.4719, 2.37264"
      id="path850"
      cx="8.4666662"
      cy="8.4666662"
-     r="7.1437497" />
+     r="6.0854163" />
 </svg>

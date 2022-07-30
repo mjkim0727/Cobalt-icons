@@ -7,8 +7,8 @@
    viewBox="0 0 8.4666665 8.466667"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="libreoffice-oasis-drawing.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="libreoffice-draw.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -27,15 +27,17 @@
      units="px"
      height="64px"
      showguides="true"
-     inkscape:zoom="6.9017856"
-     inkscape:cx="21.443726"
-     inkscape:cy="19.922381"
+     inkscape:zoom="19.521198"
+     inkscape:cx="17.160832"
+     inkscape:cy="17.775549"
      inkscape:window-width="1920"
-     inkscape:window-height="996"
+     inkscape:window-height="1006"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <linearGradient
@@ -107,7 +109,8 @@
   <path
      id="rect14425"
      style="fill:#ff9c0a;fill-opacity:1;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round"
-     d="m 4.2994719,3.8364507 h 1.5874965 c 0.1099338,0 0.1984371,0.088503 0.1984371,0.198437 v 1.5874965 c 0,0.1099337 -0.088503,0.198437 -0.1984371,0.198437 H 4.2994719 c -0.109934,0 -0.198437,-0.088503 -0.198437,-0.198437 V 4.0348877 c 0,-0.1099341 0.088503,-0.198437 0.198437,-0.198437 z" />
+     d="m 4.4317706,3.9687503 h 1.4551978 c 0.1099338,0 0.1984371,0.088503 0.1984371,0.198437 v 1.4551969 c 0,0.1099337 -0.088503,0.198437 -0.1984371,0.198437 H 4.4317706 c -0.109934,0 -0.198437,-0.088503 -0.198437,-0.198437 V 4.1671873 c 0,-0.1099341 0.088503,-0.198437 0.198437,-0.198437 z"
+     sodipodi:nodetypes="sssssssss" />
   <path
      id="path14298"
      style="color:#000000;fill:#e37a00;fill-opacity:1;stroke:none;stroke-width:0.264552;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"

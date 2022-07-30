@@ -14,4 +14,8 @@ Windows 11 Style icons for Linux
 
 ![Wallpaper Preview](preview/preview-wallpapers.png)
 
-## Sample
+## Screenshot
+
+* KDE Plasma
+
+![kde](images/kde_screenshot.png)

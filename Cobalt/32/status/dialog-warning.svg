@@ -7,7 +7,7 @@
    viewBox="0 0 8.4666665 8.466667"
    version="1.1"
    id="svg69118"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="dialog-warning.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,15 +25,17 @@
      inkscape:document-units="px"
      showgrid="false"
      units="px"
-     inkscape:zoom="25.766648"
-     inkscape:cx="15.989662"
-     inkscape:cy="16.009067"
+     inkscape:zoom="18.219772"
+     inkscape:cx="9.248195"
+     inkscape:cy="14.215326"
      inkscape:window-width="1920"
-     inkscape:window-height="996"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg69118" />
+     inkscape:current-layer="svg69118"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs69115">
     <linearGradient
@@ -57,18 +59,18 @@
        x2="4.002636"
        y2="6.846992"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.8627285,0,0,3.8195516,0.53890386,-1.1524385)" />
+       gradientTransform="matrix(1.0220136,0,0,1.0105897,0.14258498,0.22425064)" />
   </defs>
   <path
      id="path2257"
-     style="color:#000000;fill:url(#linearGradient953);stroke-width:3.99999;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 15.996094 1.0039062 A 2.0001938 2.0001938 0 0 0 14.210938 2.1035156 L 1.2109375 28.103516 A 2.0001938 2.0001938 0 0 0 2.9960938 30.996094 L 29.003906 30.996094 A 2.0001938 2.0001938 0 0 0 30.789062 28.103516 L 17.791016 2.1035156 A 2.0001938 2.0001938 0 0 0 15.996094 1.0039062 z "
-     transform="scale(0.26458334)" />
+     style="color:#000000;fill:url(#linearGradient953);stroke-width:1.05833;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 4.2323,0.79478353 C 4.0325726,0.79486576 3.8499043,0.90738475 3.7599774,1.0857219 L 0.32039389,6.9065554 C 0.14524937,7.2578861 0.40015071,7.6709155 0.7927165,7.6718834 H 7.6739503 C 8.0665161,7.6709044 8.3214172,7.2578861 8.1462729,6.9065554 L 4.7072064,1.0857219 C 4.6168621,0.90655173 4.4329571,0.79388744 4.2323,0.79478353 Z"
+     sodipodi:nodetypes="cccccccc" />
   <path
      id="path2259-5"
-     style="color:#000000;fill:#4d4d4d;stroke:none;stroke-width:3.77994;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1;opacity:0.2"
-     d="M 15.996094 1 A 2.0001563 2.0006851 0 0 0 14.208984 2.0996094 L 1.2109375 28.105469 A 2.0001563 2.0006851 0 0 0 2.9960938 31 L 29.003906 31 A 2.0001563 2.0006851 0 0 0 30.789062 28.105469 L 17.791016 2.0996094 A 2.0001563 2.0006851 0 0 0 15.996094 1 z M 15.998047 2 A 1.0001001 1.0001001 0 0 1 16.898438 2.5546875 L 29.898438 28.552734 A 1.0001001 1.0001001 0 0 1 29.005859 30 L 2.9980469 30 A 1.0001001 1.0001001 0 0 1 2.1054688 28.552734 L 15.105469 2.5546875 A 1.0001001 1.0001001 0 0 1 15.998047 2 z "
-     transform="scale(0.26458334)" />
+     style="color:#000000;opacity:0.2;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.00011;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 4.2323,0.79375001 C 4.032403,0.79362006 3.8494907,0.90616605 3.7594604,1.0846883 L 0.32039389,6.9070722 C 0.14490393,7.2585783 0.39992224,7.6720763 0.7927165,7.6729169 H 7.6739503 C 8.0667447,7.6720702 8.3217628,7.2585783 8.1462729,6.9070722 L 4.7072064,1.0846883 C 4.6168422,0.90549909 4.4329407,0.79283675 4.2323,0.79375001 Z m 5.291e-4,0.26458339 c 0.1008955,-5.001e-4 0.1932935,0.056423 0.2382285,0.146761 L 7.910641,7.025411 C 7.9984726,7.2011439 7.8709321,7.407944 7.6744671,7.4083335 H 0.79323326 C 0.59676844,7.4079438 0.46922784,7.2011439 0.55707197,7.025411 L 3.9966554,1.2050944 c 0.044604,-0.08967 0.1360107,-0.1464745 0.2361613,-0.146761 z"
+     sodipodi:nodetypes="cccccccccccccccc" />
   <path
      id="rect3151"
      style="opacity:1;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round"

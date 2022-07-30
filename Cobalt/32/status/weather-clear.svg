@@ -7,7 +7,7 @@
    viewBox="0 0 8.4666665 8.4666665"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="weather-clear.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,29 +27,19 @@
      units="px"
      height="48px"
      inkscape:zoom="12.28125"
-     inkscape:cx="32"
+     inkscape:cx="24.305344"
      inkscape:cy="32"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5"
-     inkscape:lockguides="true" />
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1014">
-      <stop
-         style="stop-color:#ffc984;stop-opacity:1"
-         offset="0"
-         id="stop1010" />
-      <stop
-         style="stop-color:#e97701;stop-opacity:1"
-         offset="1"
-         id="stop1012" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1014"
@@ -59,12 +49,24 @@
        x2="13.493751"
        y2="14.287499"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.48275861,0,0,0.48275861,0.1459778,0.14597779)" />
+       gradientTransform="matrix(0.4137931,0,0,0.4137931,0.72988583,0.72988568)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1014">
+      <stop
+         style="stop-color:#fecf00;stop-opacity:1"
+         offset="0"
+         id="stop1010" />
+      <stop
+         style="stop-color:#e35e01;stop-opacity:1"
+         offset="1"
+         id="stop1012" />
+    </linearGradient>
   </defs>
   <circle
-     style="fill:url(#linearGradient1016);fill-opacity:1;stroke-width:1.44422;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:17.3307, 1.44422"
+     style="fill:url(#linearGradient1016);fill-opacity:1;stroke-width:1.2379;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:14.8549, 1.2379"
      id="path850"
      cx="4.2333331"
      cy="4.2333331"
-     r="3.7041667" />
+     r="3.175" />
 </svg>
