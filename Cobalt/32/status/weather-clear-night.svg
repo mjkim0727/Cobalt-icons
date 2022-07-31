@@ -7,7 +7,7 @@
    viewBox="0 0 8.4666665 8.4666665"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="weather-clear-night.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,16 +26,18 @@
      showgrid="false"
      units="px"
      height="48px"
-     inkscape:zoom="29.293032"
-     inkscape:cx="15.430291"
-     inkscape:cy="16.590976"
+     inkscape:zoom="10.796922"
+     inkscape:cx="0.18523798"
+     inkscape:cy="15.096895"
      inkscape:window-width="1920"
-     inkscape:window-height="1004"
+     inkscape:window-height="1006"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5"
-     inkscape:lockguides="true" />
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <linearGradient
@@ -54,15 +56,15 @@
        inkscape:collect="always"
        xlink:href="#linearGradient1014"
        id="linearGradient1016"
-       x1="2.3812497"
-       y1="4.2333331"
-       x2="13.493751"
-       y2="14.287499"
+       x1="11.618044"
+       y1="6.2744117"
+       x2="3.378408"
+       y2="14.209773"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.48275861,0,0,0.48275861,0.14597706,0.14597658)" />
+       gradientTransform="matrix(-0.48275861,0,0,0.48275861,8.3206894,0.14597713)" />
   </defs>
   <path
      id="path850"
      style="fill:url(#linearGradient1016);fill-opacity:1;stroke-width:1.44423;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:17.3307, 1.44423"
-     d="M 2.7587941,0.83811469 A 3.7041663,3.7041663 0 0 0 0.52916666,4.2333327 3.7041663,3.7041663 0 0 0 4.2333332,7.9374992 3.7041663,3.7041663 0 0 0 7.6285512,5.7078718 3.7041663,3.7041663 0 0 1 6.1540122,6.0168203 3.7041663,3.7041663 0 0 1 2.4498457,2.3126538 3.7041663,3.7041663 0 0 1 2.7587941,0.83811469 Z" />
+     d="M 5.7078724,0.83811524 A 3.7041663,3.7041663 0 0 1 7.9374998,4.2333332 3.7041663,3.7041663 0 0 1 4.2333333,7.9374997 3.7041663,3.7041663 0 0 1 0.83811531,5.7078723 3.7041663,3.7041663 0 0 0 2.3126543,6.0168208 3.7041663,3.7041663 0 0 0 6.0168208,2.3126543 3.7041663,3.7041663 0 0 0 5.7078724,0.83811524 Z" />
 </svg>
