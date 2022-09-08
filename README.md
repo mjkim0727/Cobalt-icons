@@ -19,3 +19,7 @@ Windows 11 Style icons for Linux
 * KDE Plasma
 
 ![kde](images/kde_screenshot.png)
+
+* Xfce
+
+![xfce](images/xfce_screenshot.png)
