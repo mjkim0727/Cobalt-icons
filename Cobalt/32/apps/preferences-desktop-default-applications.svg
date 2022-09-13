@@ -7,7 +7,7 @@
    viewBox="0 0 8.4666665 8.466667"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
    sodipodi:docname="preferences-desktop-default-applications.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -26,15 +26,17 @@
      showgrid="false"
      units="px"
      height="64px"
-     inkscape:zoom="24.96875"
-     inkscape:cx="15.979975"
+     inkscape:zoom="26.65625"
+     inkscape:cx="15.981243"
      inkscape:cy="16"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1029"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5" />
+     inkscape:current-layer="svg5"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <linearGradient
@@ -125,5 +127,6 @@
   <path
      id="rect1469"
      style="fill:#ffffff;stroke-width:0.529151;stroke-linecap:round;stroke-linejoin:round"
-     d="m 6.425297,7.0967055 c -0.05206,0.04706 -0.131948,0.04527 -0.182151,-0.0049 -0.0016,-0.0016 -0.0032,-0.003 -0.0047,-0.0047 l -0.9306681,-0.93067 c -0.05182,-0.05182 -0.05182,-0.135261 0,-0.187084 0.05182,-0.05182 0.135262,-0.05182 0.187084,0 l 0.8418761,0.841879 1.216045,-1.216045 c 0.05182,-0.05182 0.135262,-0.05182 0.187084,0 0.05182,0.05182 0.05182,0.135262 0,0.187084 L 6.43503,7.0871065 c -0.0015,0.0017 -0.0031,0.0031 -0.0047,0.0048 -0.0016,0.0016 -0.0032,0.0034 -0.005,0.0049 z" />
+     d="m 6.306352,7.0323413 c -0.05206,0.04706 -0.131948,0.04527 -0.182151,-0.0049 -0.0016,-0.0016 -0.0032,-0.003 -0.0047,-0.0047 L 5.4533006,6.3566883 c -0.051826,-0.051814 -0.05182,-0.135261 0,-0.187084 0.05182,-0.05182 0.135262,-0.05182 0.187084,0 l 0.5774084,0.577262 1.216045,-1.216045 c 0.05182,-0.05182 0.135262,-0.05182 0.187084,0 0.05182,0.05182 0.05182,0.135262 0,0.187084 l -1.304837,1.304837 c -0.0015,0.0017 -0.0031,0.0031 -0.0047,0.0048 -0.0016,0.0016 -0.0032,0.0034 -0.005,0.0049 z"
+     sodipodi:nodetypes="cscscccssccccc" />
 </svg>

@@ -490,6 +490,12 @@ Scale=2
 Size=48
 Type=Fixed
 
+[48@2x/status]
+Context=Status
+Scale=2
+Size=48
+Type=Fixed
+
 # scalable@2x
 [scalable@2x/apps]
 Context=Applications
